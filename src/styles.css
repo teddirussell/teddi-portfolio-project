@@ -1,12 +1,14 @@
 html {
     background: #1B1B1B;
-
 }
 
 .hero {
-    text-align: center;
-        position: absolute;
-        background: "images/bg.png";
+        background: url(https://helpful-sawine-2b878f.netlify.app/images/bg.jpg);
+        width: 100%;
+        height: 90vh;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
 }
 
 .hero h1 {
@@ -15,7 +17,6 @@ html {
     font-weight: 700;
     font-size: 24px;
     line-height: 28px;
-    text-align: center;
     letter-spacing: 0.1em;
     text-transform: uppercase;
     color: #FFFFFF;
@@ -33,13 +34,11 @@ color: #FFFFFF;
 }
 
 .hero p {
-    
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 30px;  
-    text-align: center;    
     color: #FFFFFF;
 }
 
@@ -49,10 +48,8 @@ color: #FFFFFF;
     font-weight: 700;
     font-size: 14px;
     line-height: 17px;
-  
     letter-spacing: 0.1em;
     text-transform: uppercase;
-    
     color: #272142;
     padding: 18px 30px;
     background: #FFFFFF;
@@ -62,7 +59,7 @@ color: #FFFFFF;
 
 
 .footer-text{
-    font-family: 'Roboto';
+font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
