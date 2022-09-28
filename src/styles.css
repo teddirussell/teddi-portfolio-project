@@ -108,6 +108,25 @@ color: #FFFFFF;
     color: #FFFFFF;
     }
 
+    .contact-section {
+        padding: 160px 20px;
+      }
+      
+      .contact-section h1 {
+        font-size: 64px;
+        line-height: 80px;
+      }
+
+      .contact-section h2 {
+        font-size: 18px;
+        font-family: var(--default-font-family);
+        color: #F65282;
+      }
+      
+      .contact-section-content {
+        margin: 30px;
+      }
+
 .btn-branding {
     font-family: 'Montserrat';
     font-style: normal;
