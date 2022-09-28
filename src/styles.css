@@ -98,6 +98,16 @@ color: #FFFFFF;
     margin: 30px;
   }
 
+  .gallery h1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 4em;
+    line-height: 84px;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    }
+
 .btn-branding {
     font-family: 'Montserrat';
     font-style: normal;
