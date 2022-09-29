@@ -58,6 +58,7 @@ h1 {
     letter-spacing: 0.1em;
     text-transform: uppercase;
     color: #FFFFFF;
+    text-shadow: 2px 2px black;
 }
 
 .hero h2 {
@@ -69,6 +70,7 @@ line-height: 84px;
 letter-spacing: 0.1em;
 text-transform: uppercase;
 color: #FFFFFF;
+text-shadow: 2px 2px black;
 }
 
 .hero p {
@@ -78,6 +80,7 @@ color: #FFFFFF;
     font-size: 18px;
     line-height: 30px;  
     color: #FFFFFF;
+    text-shadow: 1px 1px black;
 }
 
 .about-section {
