@@ -220,4 +220,46 @@ gap: 40px;
       font-size: 40px;
       text-align: center;
     }
+
+    footer .social-links a {
+      margin: 0 10px;
+      font-size: 12px;
+    }
+}
+
+@media (max-width: 300px) {
+  h1 {
+      font-size: 36px;
+      line-height: 30px;
+    }
+
+    h2 {
+      font-size: 20px;
+    }
+    
+    .hero {
+      padding: 40px 10px;
+    }
+  
+    .about-section {
+      text-align: center;
+      padding: 0;
+    }
+
+    .hero h1 {
+      font-size: 40px;
+      line-height: 30px;
+    }
+
+    .hero h2 {
+      font-size: 24px;
+    }
+     .hero p {
+    text-align: center;
+  }
+
+  footer .social-links a {
+    margin: 0 10px;
+    font-size: 12px;
+  }
 }
